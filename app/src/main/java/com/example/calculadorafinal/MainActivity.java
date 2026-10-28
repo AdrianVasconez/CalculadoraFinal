@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    private TextView tvPantalla;S
+    private TextView tvPantalla;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
